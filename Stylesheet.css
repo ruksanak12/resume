@@ -1,0 +1,187 @@
+body{
+    background-color: #ffffff;
+    margin:0;
+}
+h1{
+    color: #66BFBF;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'El Messiri', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 4rem;
+    padding-bottom: 0;
+}
+
+h2{
+    font-family: 'Alata', sans-serif;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-weight: normal;
+    }
+
+h3{
+    font-family: 'Alata', sans-serif;
+    color: #11999E;
+    font-size: 2em;
+    
+}
+a{
+    color: #11999E;
+    padding-right: 40px ;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #060606;
+}
+
+p{
+    font-family: 'Quattrocento Sans', sans-serif;
+    color: #4d4c4c;
+    line-height: 2;
+    margin: 10px auto;
+}
+
+hr{
+    border: dotted 6px #71906e;
+    border-bottom: none;
+    width: 4%;
+}
+
+.name{
+    background-color: #E3F1FC;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    text-align: center;
+    height:500px;
+}
+/*
+.parrot{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    left:300px;
+    top:6px
+}
+*/
+.mountain{
+    height: 20%;
+    width: 100%;
+    position: relative;
+    bottom:20px;
+    opacity: 78%;
+}
+/*
+.coloured_bird{
+    width: 200px;
+    height: 140px;
+    display: inline-block;
+    position: absolute;
+    top: 15px;
+    right: 350px;
+}
+*/
+.Ruksana{
+    width:25%;
+    margin-right: 30px;
+}
+
+.design{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.travel{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.bottom_container{
+    text-align: center;
+    padding-top: 30px;
+    background-color: #E3F1FC;
+    height: 70px;
+    margin: 40px auto 0 auto;
+    font-family: 'Quattrocento Sans', sans-serif;
+    
+}
+.contact_me{
+    text-align: center;
+    width: 30%;
+    margin: 80px auto 80px auto
+}
+
+.hello{
+    width: 50%;
+    margin: 80px auto 80px auto;
+    text-align: center;
+}
+
+.skills{
+    width: 50%;
+    margin: 80px auto 180px auto;
+    text-align: left;
+}
+
+.hobbies{
+    width: 50%;
+    margin: 80px auto 180px auto;
+    text-align: left;
+}
+
+.btn {
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 300;
+    padding: 7px;
+    border: solid #082650 0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    border: solid #84FBE1 0;
+    background: #17A5AD;
+    background-image: -webkit-linear-gradient(top, #17A5AD, #0EE293);
+    background-image: -moz-linear-gradient(top, #17A5AD, #0EE293);
+    background-image: -ms-linear-gradient(top, #17A5AD, #0EE293);
+    background-image: -o-linear-gradient(top, #17A5AD, #0EE293);
+    background-image: -webkit-gradient(to bottom, #17A5AD, #0EE293);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    text-decoration: none;
+ }
+
+
+.copyright{
+    color: darkgrey;
+    font-size: 50%;
+    line-height: 50px;
+}
+
+.contact_me_p{
+    padding-bottom: 25px;
+}
+
+ul { 
+    padding-left: 40px; 
+    list-style-type: circle;
+}
